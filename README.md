@@ -5,9 +5,6 @@
 ## Descripció dels fitxers
 
 - El fitxer a consultar és el "GerardLopezVisualitzacioPAC2.html" 
-```
-pip install Scrapy
-```
 
 - L'HTML ha estat generat amb el codi de "GerardLopezVisualitzacioPAC2.ipynb"
 
